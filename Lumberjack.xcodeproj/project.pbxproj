@@ -508,13 +508,6 @@
 		DCB3186714EB418E001CFBEE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = (
-					arm64,
-					armv7,
-					armv7s,
-					i386,
-					x86_64,
-				);
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_ATOMIC_PROPERTIES = YES;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -542,13 +535,6 @@
 		DCB3186814EB418E001CFBEE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = (
-					arm64,
-					armv7,
-					armv7s,
-					i386,
-					x86_64,
-				);
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_ATOMIC_PROPERTIES = YES;
 				COMBINE_HIDPI_IMAGES = YES;
